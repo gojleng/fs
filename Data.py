@@ -24,7 +24,7 @@ class Data:
  ├ /speedtest - Untuk Mengetes kecepatan server bot
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
-👨‍💻 Develoved by @Lunatic0de</b>
+👨‍💻 Develoved by @OtanCabul</b>
 """
 
     close = [
